@@ -1,0 +1,1 @@
+web: gunicorn markez_web_rede:app
